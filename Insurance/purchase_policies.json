@@ -1,0 +1,478 @@
+{
+    "65482727": {
+    "policy_summary": {
+        "name": "CARE",
+        "provider": "Care Health Insurance Limited",
+        "uin": "CHIHLIP25042V082425",
+        "policy_number": "65482727"
+    },
+    "people": {
+        "policy_holder": {
+        "name": "Mr Himanshu Kumar Todi",
+        "age": 31,
+        "gender": "Male",
+        "contact": {
+            "mobile": "7678582978",
+            "email": "hXXXXXXi@ymail.com"
+        }
+        },
+        "type": "Individual",
+        "members": [
+        {
+            "name": "Himanshu Kumar Todi",
+            "relationship": "MEMBER",
+            "age": 31,
+            "date_of_birth": "22-Mar-1992"
+        }
+        ]
+    },
+    "sum_insured": "Rs. 5,00,000.00",
+    "policy_period": {
+        "date_of_purchase": "03-May-2023",
+        "start": "04-May-2023 00:00 hrs",
+        "end": "03-May-2024 Midnight"
+    },
+    "premium": {
+        "amount": "Rs. 8,590.00",
+        "frequency": "Annual",
+        "breakdown": {
+        "care_premium": "Rs. 6,214.26",
+        "ncb_super": "Rs. 621.43",
+        "care_shield": "Rs. 444.31",
+        "gst": "Rs. 1,310.40"
+        },
+        "payment_mode": "Single Premium"
+    },
+    "location": {
+        "city": "Chorasi",
+        "state": "Gujarat",
+        "pincode": "395007",
+        "full_address": "Flat No. F-124, Rajhans Synfonia, C.b.patel Road, Vesu, Abhva, B/h Celebrity Greens, Chorasi 395007, Gujarat 24"
+    },
+    "benefits": {
+        "hospitalization": {
+        "coverage": "In-patient Care and Day Care Treatment",
+        "room_category": "Single Private Room",
+        "pre_hospitalization_days": 30,
+        "post_hospitalization_days": 60
+        },
+        "copay": "Applicable where age of member at entry is 61 years or above",
+        "ambulance": "Up to Rs. 2,000 per Hospitalization",
+        "organ_donor": "Up to Rs. 1,00,000 per Policy Year",
+        "ayush": "Up to Rs. 20,000 per Policy Year (Alternative Treatments)",
+        "no_claims_bonus": {
+        "standard": "10% of Sum Insured for each Claim free year, maximum upto 50% of Sum Insured; reduced by 10% of Sum Insured in case of claim",
+        "super_addon": "50% of Sum Insured for each Claim free year, maximum upto 100% of Sum Insured; Reduced by 50% of Sum Insured in case of Claim"
+        },
+        "add_ons": [
+        {
+            "name": "Care Shield",
+            "uin": "CHIHLIA26054V022526",
+            "benefits": {
+            "claim_shield": "Applicable",
+            "ncb_shield": "Applicable",
+            "inflation_shield": "Applicable"
+            }
+        },
+        {
+            "name": "No Claim Bonus - SUPER",
+            "status": "Applicable"
+        }
+        ],
+        "other_benefits": {
+        "domiciliary_hospitalization": "Up to 10% of the Sum Insured per Policy Year, with a deductible of first 3 days",
+        "automatic_recharge": "One re-instatement of up to Sum Insured per Policy Year",
+        "second_opinion": "Once per Policy Year per Insured Person for each major illness/injury",
+        "annual_health_checkup": "One Health Check-up per Insured Person per Policy Year"
+        },
+        "waiting_period": {
+        "initial": "Not specified in document",
+        "specific": "Refer to Clause 4 of Policy terms and conditions",
+        "preexisting": "Refer to Clause 4 of Policy terms and conditions"
+        }
+    },
+    "pre_existing_diseases": "NONE",
+    "exclusions": "Refer to Clause 4 of the Policy terms and conditions (not detailed in this document)",
+    "renewability": "Not explicitly mentioned in this document",
+    "agent_intermediary": {
+        "name": "TORQUE INSURANCE BROKERS PVT LTD",
+        "code": "20426851",
+        "contact_details": "Not provided"
+    },
+    "portability_details": {
+        "previous_insurer": "HDFC ERGO GENERAL INS. CO. LTD",
+        "first_policy_number": "2806 2035 70",
+        "expiry_policy_number": "2806 2035 7007 8102 000",
+        "date_of_first_enrollment": "04-May-2017",
+        "previous_sum_insured": "Rs. 3,00,000 + Rs. 1,50,000 (Cumulative Bonus)"
+    },
+    "contact_information": {
+        "website": "www.careinsurance.com",
+        "claims_email": "claims@careinsurance.com",
+        "contact_url": "https://www.careinsurance.com/contact-us.html",
+        "correspondence_address": "Care Health Insurance Limited, Vipul Tech Square, Tower C, 3rd Floor, Golf Course Road, Sector-43, Gurugram-122009 (Haryana)"
+    },
+    "nominee": {
+        "name": "Sanjay Todi",
+        "relationship": "Father"
+    }
+    },
+    "48711519": {
+    "policy_summary": {
+        "name": "CARE ADVANTAGE",
+        "provider": "Care Health Insurance Limited (Formerly known as Religare Health Insurance Company Limited)",
+        "uin": "RHIHLIP21015V012021",
+        "policy_number": "48711519"
+    },
+    "people": {
+        "policy_holder": {
+        "name": "Mr Sumit K Bhogar",
+        "age": 40,
+        "gender": "Male",
+        "date_of_birth": "03-Aug-1982",
+        "contact": {
+            "mobile": "7678582977",
+            "email": "SUMIT.BHOGAR@YAHOO.COM"
+        }
+        },
+        "type": "Floater",
+        "members": [
+        {
+            "name": "Sumit K Bhogar",
+            "client_id": "10508768",
+            "relationship": "Member",
+            "age": 40,
+            "date_of_birth": "03-Aug-1982",
+            "insured_since": "19-Nov-2016"
+        },
+        {
+            "name": "Zinal S Bhogar",
+            "client_id": "10546109",
+            "relationship": "Spouse",
+            "age": 36,
+            "date_of_birth": "03-Jan-1986",
+            "insured_since": "19-Nov-2016"
+        },
+        {
+            "name": "Avadhi S Bhogar",
+            "client_id": "10546111",
+            "relationship": "Daughter",
+            "age": 12,
+            "date_of_birth": "23-Dec-2010",
+            "insured_since": "19-Nov-2016"
+        },
+        {
+            "name": "Dhir Sumit Bhogar",
+            "client_id": "10546112",
+            "relationship": "Son",
+            "age": 6,
+            "date_of_birth": "18-Jul-2016",
+            "insured_since": "19-Nov-2016"
+        }
+        ]
+    },
+    "sum_insured": "Rs. 25,00,000",
+    "policy_period": {
+        "date_of_purchase": "13-Nov-2022",
+        "start": "19-Nov-2022 00:00 hrs",
+        "end": "18-Nov-2025 Midnight"
+    },
+    "premium": {
+        "amount": "Rs. 80,060.00",
+        "frequency": "Annual",
+        "breakdown": {
+        "care_advantage_premium": "Rs. 58,742.28",
+        "care_shield": "Rs. 3,230.76",
+        "ncb_super": "Rs. 5,874.24",
+        "gst": "Rs. 12,212.48"
+        },
+        "payment_mode": "Single Premium",
+        "payment_method": "Cheque"
+    },
+    "location": {
+        "city": "Surat",
+        "state": "Gujarat",
+        "pincode": "395001",
+        "full_address": "B-1, Yogi Krupa Society, Near Ram Temple, New Civil Road, Surat, Surat 395001, Gujarat"
+    },
+    "benefits": {
+        "hospitalization": {
+        "coverage": "In-patient Care and Day Care Treatment",
+        "room_category": "No Sub-limits",
+        "pre_hospitalization_days": 30,
+        "post_hospitalization_days": 60,
+        "limit": "Up to SI"
+        },
+        "copay": "Not Applicable",
+        "ambulance": "Up to SI",
+        "organ_donor": "Up to SI",
+        "ayush": "Not explicitly mentioned",
+        "no_claims_bonus": "10% of Sum Insured for each Claim free year, maximum upto 50% of Sum Insured; reduced by 10% of Sum Insured in case of claim",
+        "add_ons": [
+        {
+            "name": "Care Shield",
+            "uin": "CHIHLIA26054V022526",
+            "benefits": {
+            "claim_shield": "Applicable",
+            "ncb_shield": "Applicable",
+            "inflation_shield": "Applicable"
+            }
+        },
+        {
+            "name": "No Claim Bonus-Super",
+            "status": "Applicable"
+        }
+        ],
+        "other_benefits": {
+        "automatic_recharge": "Up to SI (Once in a Policy Year)",
+        "icu_charges": "No Sub-limits"
+        },
+        "waiting_period": {
+        "initial": "30 Days",
+        "specific": "24 Months (Specific Diseases)",
+        "preexisting": "48 Months (Pre-existing Diseases)"
+        }
+    },
+    "pre_existing_diseases": "None (All members)",
+    "exclusions": "Refer to Clause 4 of the Policy terms and conditions (not detailed in this document)",
+    "renewability": "Multi-year policy (3-year term: 2022-2025)",
+    "agent_intermediary": {
+        "name": "Torque Insurance Brokers Pvt Ltd",
+        "code": "20426851",
+        "contact_details": "Not provided"
+    },
+    "portability_details": {
+        "previous_insurer": "HDFC ERGO GENERAL INS. CO. LTD",
+        "first_policy_number": "190200/1112",
+        "date_of_first_enrollment": "19-Nov-2016",
+        "previous_sum_insured": "Rs. 5,00,000 + Rs. 2,50,000 (Cumulative Bonus)",
+        "note": "All family members ported from HDFC ERGO with same enrollment date"
+    },
+    "contact_information": {
+        "website": "www.careinsurance.com",
+        "claims_email": "claims@careinsurance.com",
+        "customer_service_email": "customerfirst@careinsurance.com",
+        "helpline": "1800-102-4488",
+        "policy_terms_url": "https://bit.ly/3zLaeJL",
+        "correspondence_address": "Care Health Insurance Limited, Unit no 604 - 607, 6th Floor, Tower C, Unitech Cyber Park, Sector 39, Gurgaon -122001.(HARYANA)",
+        "service_branch": "CHIL, Office No 503 & 504, Meridian Tower, 5Th Floor, Beside Apple Hospital, Udhna Darwaja, Surat, Gujarat - 395002"
+    },
+    "nominee": {
+        "name": "Ms Zinal S Bhogar",
+        "relationship": "Wife"
+    },
+    "proposal_details": {
+        "proposal_number": "1120044375762",
+        "declaration_questions": {
+        "pre_existing_diseases": "No (all members)",
+        "previous_claims": "No (all members)",
+        "declined_policies": "No (all members)",
+        "other_policies": "No (all members)",
+        "hazardous_occupation": "No"
+        }
+    },
+    "regulatory_details": {
+        "irda_registration": "148",
+        "gstin": "24AADCR6281N1ZY",
+        "cin": "U66000DL2007PLC161503",
+        "registered_office": "5th Floor, 19 Chawla House, Nehru Place, New Delhi - 110019",
+        "sac_code": "997133"
+    }
+    },
+    "39654168": {
+    "policy_summary": {
+        "name": "CARE ADVANTAGE",
+        "provider": "Care Health Insurance Limited",
+        "uin": "RHIHLIP21015V012021",
+        "policy_number": "39654168"
+    },
+    "people": {
+        "policy_holder": {
+        "name": "Mr Saunak Sandip Shah",
+        "age": 33,
+        "gender": "Male",
+        "date_of_birth": "15-Aug-1990",
+        "contact": {
+            "mobile": "7678582950",
+            "email": "Not provided"
+        }
+        },
+        "type": "Floater",
+        "members": [
+        {
+            "name": "Saunak Sandip Shah",
+            "client_id": "34200092",
+            "relationship": "MEMBER",
+            "age": 33,
+            "date_of_birth": "15-Aug-1990",
+            "insured_since": "16-Mar-2022"
+        },
+        {
+            "name": "Dhwani Saunak Shah",
+            "client_id": "34259018",
+            "relationship": "SPOUSE",
+            "age": 29,
+            "date_of_birth": "29-Jan-1995",
+            "insured_since": "16-Mar-2022"
+        },
+        {
+            "name": "Samar Saunak Shah",
+            "client_id": "34259019",
+            "relationship": "SON",
+            "age": 2,
+            "date_of_birth": "20-Sep-2021",
+            "insured_since": "16-Mar-2022"
+        }
+        ]
+    },
+    "sum_insured": {
+        "base_sum_insured": "Rs. 50,00,000.00",
+        "accumulated_no_claim_bonus": "Rs. 7,50,000.00",
+        "accumulated_ncb_super": "Rs. 25,00,000.00",
+        "accumulated_inflation_shield": "Rs. 5,02,500.00",
+        "note": "Floater Policy - all member coverage is on shared basis"
+    },
+    "policy_period": {
+        "date_of_purchase": "27-Feb-2024",
+        "start": "16-Mar-2024 00:00 hrs",
+        "end": "15-Mar-2025 Midnight"
+    },
+    "premium": {
+        "amount": "Rs. 27,883.00",
+        "frequency": "Annual",
+        "breakdown": {
+        "care_advantage_premium": "Rs. 19,516.23",
+        "ncb_super": "Rs. 1,463.73",
+        "care_shield": "Rs. 1,048.98",
+        "pre_post_hospitalization": "Rs. 1,573.47",
+        "unlimited_econsultation": "Rs. 27.00",
+        "gst": "Rs. 4,253.28"
+        },
+        "payment_mode": "Single Premium"
+    },
+    "location": {
+        "city": "Surat",
+        "state": "Gujarat",
+        "pincode": "395007",
+        "full_address": "7-d, Vandan Tribhovan Complex, Ghod Dod Road, Surat, Surat 395007, Gujarat 24"
+    },
+    "benefits": {
+        "hospitalization": {
+        "coverage": "In-patient Care and Day Care Treatment",
+        "room_category": "No Sub-limits",
+        "pre_hospitalization_days": 60,
+        "post_hospitalization_days": 180,
+        "limit": "Up to SI"
+        },
+        "copay": "Applicable 61 years or above",
+        "ambulance": "Up to SI",
+        "organ_donor": "Up to SI",
+        "ayush": "Up to SI (Ayush treatment)",
+        "no_claims_bonus": {
+        "standard": "10% of Sum Insured for each Claim free year, maximum upto 50% of Sum Insured; reduced by 10% of Sum Insured in case of claim",
+        "super_addon": "50% increase in SI in case of claim-free year; Max up to 100% of SI. 50% decrease in NCBS SI in case a claim has been paid"
+        },
+        "add_ons": [
+        {
+            "name": "Care Shield",
+            "uin": "CHIHLIA26054V022526",
+            "benefits": {
+            "claim_shield": "Applicable",
+            "ncb_shield": "Applicable",
+            "inflation_shield": "Applicable"
+            }
+        },
+        {
+            "name": "No Claim Bonus-Super",
+            "status": "Applicable"
+        },
+        {
+            "name": "Pre & Post Hospitalization Modification",
+            "details": "Pre-Hospitalization modified to 60 Days and Post-Hospitalization modified to 180 Days"
+        },
+        {
+            "name": "Unlimited E-consultation",
+            "status": "Applicable"
+        }
+        ],
+        "other_benefits": {
+        "automatic_recharge": "Up to SI (Once in a Policy Year)",
+        "icu_charges": "No Sub-limits",
+        "health_services_portal": "Doctor on chat, Healthy tips reminder, etc.",
+        "health_services_discount": "Discounts on services such as consultations, diagnostics, maternity etc at our network"
+        },
+        "waiting_period": {
+        "initial": "30 Days",
+        "specific": "24 Months (Specific Diseases)",
+        "preexisting": "48 Months (Pre-existing Diseases)"
+        }
+    },
+    "pre_existing_diseases": "NONE (All members)",
+    "exclusions": "Refer to Clause 4 of the Policy terms and conditions (not detailed in this document)",
+    "renewability": "Policy has been renewed multiple times since 2019",
+    "agent_intermediary": {
+        "name": "TORQUE INSURANCE BROKERS PVT LTD",
+        "code": "20426851",
+        "contact_details": "Not provided"
+    },
+    "portability_details": {
+        "insurance_history": [
+        {
+            "period": "16-Mar-2023 to 15-Mar-2024",
+            "insurer": "Care Health Insurance Ltd",
+            "policy_number": "39654168",
+            "enrollment_date": "16-Mar-2019",
+            "sum_insured": "Rs. 50,00,000.00 + Rs. 2,50,000.00 (NCB) + Rs. 1,67,500.00 (Inflation SI)"
+        },
+        {
+            "period": "16-Mar-2022 to 15-Mar-2023",
+            "insurer": "Care Health Insurance Ltd",
+            "policy_number": "39654168",
+            "enrollment_date": "16-Mar-2019",
+            "sum_insured": "Rs. 25,00,000.00"
+        },
+        {
+            "period": "16-Mar-2021 to 15-Mar-2022",
+            "insurer": "HDFC ERGO GEN INS",
+            "policy_number": "121 6001",
+            "enrollment_date": "16-Mar-2019",
+            "sum_insured": "Rs. 20,00,000.00"
+        }
+        ],
+        "note": "Customer has been continuously insured since 16-Mar-2019, initially with HDFC ERGO, then moved to Care Health Insurance"
+    },
+    "contact_information": {
+        "website": "www.careinsurance.com",
+        "claims_email": "claims@careinsurance.com",
+        "contact_url": "https://www.careinsurance.com/contact-us.html",
+        "correspondence_address": "Care Health Insurance Limited, Vipul Tech Square, Tower C, 3rd Floor, Golf Course Road, Sector-43, Gurugram-122009 (Haryana)",
+        "claim_process_url": "http://bit.ly/3EyPRnT",
+        "policy_terms_url": "https://bit.ly/3PSzkQU"
+    },
+    "nominee": {
+        "name": "DHWANI SAUNAK",
+        "relationship": "Wife"
+    },
+    "special_features": {
+        "ncb_shield_protection": "Applied on this renewal",
+        "coverage_type": "Shared basis for all family members",
+        "member_ids": [
+        {
+            "name": "Saunak Sandip Shah",
+            "member_id": "34200092",
+            "dob": "15-Aug-1990"
+        },
+        {
+            "name": "Dhwani Saunak Shah",
+            "member_id": "34259018",
+            "dob": "29-Jan-1995"
+        },
+        {
+            "name": "Samar Saunak Shah",
+            "member_id": "34259019",
+            "dob": "20-Sep-2021"
+        }
+        ]
+    }
+    }
+}

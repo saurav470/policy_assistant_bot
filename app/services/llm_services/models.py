@@ -1,0 +1,5 @@
+GPT_3_TURBO = "gpt-4o-mini"
+GPT_4O_MINI = "gpt-4o-mini"
+GPT_4_1_MINI = "gpt-4.1-mini"
+GPT_IMAGE_1 = "gpt-image-1"
+GPT_4_1 = "gpt-4.1"
